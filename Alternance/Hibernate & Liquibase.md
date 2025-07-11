@@ -1,0 +1,3 @@
+- **Hibernate** : Permet d'interagir avec la base de données en manipulant directement des objets Java (ORM). Il gère les opérations **CRUD** via des requêtes SQL générées automatiquement ou personnalisées (HQL, SQL natif), facilitant l'accès aux données et leur persistance.
+    
+- **Liquibase (ou Flyway)** : Outils de gestion des versions de bases de données. Ils permettent d’appliquer, modifier ou supprimer des structures via des scripts (XML, YAML, SQL). Chaque modification est tracée et versionnée, garantissant une synchronisation cohérente entre les environnements.

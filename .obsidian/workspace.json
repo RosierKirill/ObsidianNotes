@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "b9605f8964eda04f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e80942f3e1df67a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57b21a6ac2078f2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alternance/Conversion de design figma en code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conversion de design figma en code"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "863247237a219031",
+    "type": "split",
+    "children": [
+      {
+        "id": "935831bf721fbd79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "333f9fca556a56b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5d948b610e9ffd19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "68135ddbbffabfdf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2d169052be288754",
+    "type": "split",
+    "children": [
+      {
+        "id": "46ec57043cee0e91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3a4e3fdab935910",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SSR.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SSR"
+            }
+          },
+          {
+            "id": "58d62655aa039a74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SSR.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SSR"
+            }
+          },
+          {
+            "id": "13aee147690f069a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b219a4e2a06b06ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SSR.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SSR"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "57b21a6ac2078f2f",
+  "lastOpenFiles": [
+    "README.md",
+    "Black Bismuth/Narration/Eisenhtal.md",
+    "GameDev",
+    "G.md",
+    "Black Bismuth",
+    "Black Bismuth/Lore/mineraux.md",
+    "Black Bismuth/GameConcept/Game concept/Game concept/Mobs.md",
+    "Narration/GameConcept/README.md",
+    "GameDev/UE5/Unreal Engine Hack & Slash de Yuko Millenia.md",
+    "GameDev/UE5",
+    "Black Bismuth/Lore",
+    "GameDev/Godot/Visual Novel Systems Godot.md",
+    "GameDev/Godot",
+    "GameDev/Godot/Rogue Like System Godot.md",
+    "application.properties.md",
+    "Narration/GameConcept/Game concept/__MACOSX/Game concept/Player",
+    "Narration/GameConcept/Game concept/__MACOSX/Game concept/Mobs",
+    "Narration/GameConcept/Game concept/__MACOSX/Game concept/Levels",
+    "Black Bismuth/GameConcept/Game concept/Game concept/Levels/Walkthrough Loc. 1.md",
+    "Black Bismuth/GameConcept/Game concept/Game concept/Levels/Locations.md",
+    "Black Bismuth/GameConcept/Game concept/Game concept/Player/Controls.md",
+    "Black Bismuth/GameConcept/Game concept/Game concept/Player/Combat system.md",
+    "Black Bismuth/GameConcept/Game concept/Game concept/Mobs/NpcÔÇÖs.md",
+    "Black Bismuth/GameConcept/Game concept/Game concept/Mobs/Enemies.md",
+    "Narration/GameConcept/Game concept/__MACOSX/Game concept",
+    "Black Bismuth/Lore/Helga the Witch.md",
+    "Black Bismuth/GameConcept/Game concept/Game concept/Levels",
+    "Black Bismuth/GameConcept/Game concept/Game concept/ð░ð¢Ðûð╝ðÁ ð¢ð░ qtv.md",
+    "Black Bismuth/GameConcept/Game concept/Game concept/ðôðÁð©╠åð╝ð┐ð╗ðÁð©╠å.md",
+    "Black Bismuth/Lore/The Hanged Man (Main Character).md",
+    "Black Bismuth/GameConcept/Game concept/Game concept/Elements.md",
+    "Black Bismuth/GameConcept/Game concept/Game concept/Characters.md",
+    "Black Bismuth/GameConcept/Game concept/Game concept/Cities.md",
+    "Black Bismuth/GameConcept/Game concept/Game concept/Ayla & Laurene ÔÇô Mlyvian blacksmith sisters.md",
+    "Black Bismuth/GameConcept/Game concept/Game concept/Player/Controls.md",
+    "Black Bismuth/GameConcept/Game concept/Game concept/Player/Combat system.md"
+  ]
+}
