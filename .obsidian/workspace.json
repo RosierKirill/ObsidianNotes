@@ -4,21 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "7e80942f3e1df67a",
+        "id": "4f8d9a649fc25ad6",
         "type": "tabs",
+        "dimension": 46.85494223363286,
         "children": [
           {
-            "id": "57b21a6ac2078f2f",
+            "id": "6a03f631052220e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alternance/Conversion de design figma en code.md",
+                "file": "Amélioration de la Soutenance d'Alternance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conversion de design figma en code"
+              "title": "Amélioration de la Soutenance d'Alternance"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bfcf548bc02773fa",
+        "type": "tabs",
+        "dimension": 53.14505776636713,
+        "children": [
+          {
+            "id": "a9cc252efc1c87a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alternance/MissionsSupp/Presentation de Soutenance d'alternance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Presentation de Soutenance d'alternance"
+            }
+          },
+          {
+            "id": "845a9d169f7800b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prise de notes bruts de la présentation Soutenance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prise de notes bruts de la présentation Soutenance"
             }
           }
         ]
@@ -78,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 318.5
   },
   "right": {
     "id": "2d169052be288754",
@@ -165,46 +201,49 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "57b21a6ac2078f2f",
+  "active": "a9cc252efc1c87a1",
   "lastOpenFiles": [
-    "WebComics/Narration 1/Шварцбург.md",
-    "WebComics/Narration 1/Суші майстер.md",
-    "WebComics/Narration 1/Проект «Север».md",
-    "WebComics/Narration 1/Науковці Альтери.md",
-    "WebComics/Narration 1/Untitled.md",
-    "WebComics/Narration 1/канадський щит.md",
-    "WebComics/Narration 1/Paul Mercer, Transcending.md",
-    "WebComics/Narration 1/Luis's monologue.md",
-    "WebComics/Narration 1/Objets pour le jeu.md",
-    "WebComics/Narration 1/Liste des personnages.md",
-    "WebComics/Narration 1/fueur frei character.md",
-    "WebComics/Narration 1/Grenoble.exe.md",
-    "WebComics/Narration 1/Correction de CV.md",
-    "WebComics/Narration 1/Contexte historique de Paul Mercer.md",
-    "WebComics/Narration 1/Character Quotes.md",
-    "WebComics/Narration 1",
-    "WebComics",
-    "Nouveau dossier",
-    "Black Bismuth/Lore/Лор гри.md",
-    "Black Bismuth/Lore/script edit.md",
-    "Black Bismuth/Lore/Détail technique.md",
-    "Narration 1/Шварцбург.md",
-    "Narration 1/Суші майстер.md",
-    "Narration 1/Проект «Север».md",
-    "Narration 1/канадський щит.md",
-    "Narration 1/Науковці Альтери.md",
-    "Narration 1/Untitled.md",
-    "Narration 1/Paul Mercer, Transcending.md",
-    "Narration 1/Objets pour le jeu.md",
-    "Narration 1",
-    "Розповідь 1",
-    "Лор для гри",
-    "Game concept/Levels",
-    "Game concept/Player",
-    "Game concept/Mobs",
-    "Game concept"
+    "Amélioration de la Soutenance d'Alternance.md",
+    "Prise de notes bruts de la présentation Soutenance.md",
+    "Alternance/MissionsSupp/Presentation de Soutenance d'alternance.md",
+    "Pasted image 20250804144949.png",
+    "Alternance/Images/Core_Concepts_Keycloak.webp",
+    "Alternance/Projet Dashboard/Modification Front.md",
+    "Alternance/FormationTechno/Namespaces.md",
+    "Alternance/SuiviDevDasboard/Problèmes observés.md",
+    "Alternance/SuiviDevDasboard/Taches.md",
+    "Alternance/SuiviDevDasboard/Modifications Dashboard 04.07.md",
+    "Alternance/MissionsSupp/Conversion de design figma en code.md",
+    "Alternance/Projet Dashboard/ImageTag Argocd.md",
+    "Alternance/Projet Dashboard/Projet Dashboard.md",
+    "Alternance/FormationTechno/Test Quarkus.md",
+    "Alternance/Projet Dashboard/Dashboard 18.07.2025.md",
+    "Vrac/Voyages avenir.md",
+    "Alternance/FormationTechno/Keycloak.md",
+    "Alternance/FormationTechno/SpringBoot vs Quarkus.md",
+    "Alternance/FormationTechno/Liste des Technos.md",
+    "Alternance/FormationTechno/IaC - Résumé.md",
+    "index-formation-techno.md",
+    "Alternance/FormationTechno/Dockerfile.md",
+    "Alternance/FormationTechno/Swagger UI.md",
+    "Alternance/Untitled 1.md",
+    "Alternance/FormationTechno/Spring Boot & Quarkus.md",
+    "Alternance/MissionsSupp/Initialisation du projet Quarkus.md",
+    "Alternance/FormationTechno/Dépendances Quarkus - Résumé.md",
+    "Alternance/MissionsSupp",
+    "Alternance/README.md",
+    "Alternance/FormationTechno",
+    "Alternance/SuiviDevDasboard",
+    "Alternance/Projet Dashboard",
+    "GameDev/Logiciels/Blender",
+    "GameDev/Logiciels",
+    "WebComics/Krita",
+    "GameDev/Black Bismuth/Lore/Personnages",
+    "GameDev/Black Bismuth/Gameplay/Missions",
+    "Vrac"
   ]
 }

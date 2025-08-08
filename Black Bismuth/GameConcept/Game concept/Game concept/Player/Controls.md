@@ -1,2 +1,0 @@
-Full list of control
-

@@ -7,9 +7,7 @@ Contient des réflexions, des idées de projets, de la documentation technique, 
 
 ## Structure du Vault
 
-- `GameDev/` : ressources pour le developpement de jeux
-- `Black Bismuth/` : idées en vrac, projet personnel de jeu
+- `GameDev/` : idées en vrac, projet personnel de jeu, besoin d'être rédigé et structuré
 - `Alternance/` : documents et notes liés à l'alternance
-- ˋЛор для гри/` : le lore du jeu - lié au projet
-- `Розповідь 1/` : un autre projet (comics) avec differentes idées
+- `WebComics/` : ancien projet personnel de webcomics, je reprendrais sûrement un jour
 ---
