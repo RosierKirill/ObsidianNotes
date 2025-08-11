@@ -1,9 +1,11 @@
 
-10 000 effectif (et d'autres chiffres)
+10 000 colaborateurs (et d'autres chiffres)
 
-combien d'applications on montre dans dashboard -> permet de gerer un grand nombre 
+combien d'applications on montre dans Dashboard -> permet de gérer un grand nombre 
 
-metaphore de l'eleveurs avec 10 vaches et 100 vaches (et leurs noms qu'il note dans une appli de gestion)
+métaphore de l'éleveurs avec 10 vaches et 100 vaches (et leurs noms qu'il note dans une appli de gestion)
+
+
 
 erreurs
 

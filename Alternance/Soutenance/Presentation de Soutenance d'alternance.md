@@ -84,11 +84,10 @@ Utilisation concrète de Dashboard :
 
 Alternance m'a apporté : 
 - une expérience professionnelle concrète
-- 
 
 ### Diagramme de Classe Backend
 
-![[Pasted image 20250804144949.png]]
+![[diagrame de classe gca-argocd-api.png]]
 
 ## Diagramme de Classe Frontend
 

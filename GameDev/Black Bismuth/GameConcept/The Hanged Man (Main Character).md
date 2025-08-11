@@ -6,22 +6,21 @@ Golem de chair crée par la sorcière Helga lors du rituel de la danse de la vie
 
 ## Apparence
 - 1,91 / 91kg
-- vieux uniforme usés de l’armée de Montflori, lanterne des âmes, sacoche à la ceinture, grande épée 
+- vieux uniforme usés de l’armée de Montflori, lanterne à l'huile (contenant des âmes), sacoche à la ceinture, grande épée 
 - peau pales, runes violettes incandescentes tatouées, un masque métallique couvrant le visage, bandes rituels sur le torse
 - humain en apparence 
 
 ## Personnalité
-- muet, calme, efficace
-- une fois retrouvé sa conscience cherche a connaitre son passé et cherche a donner du sens à sa vie 
-- il n’a pas peur de la mort car il l’était déjà.
+- muet, calme
+- une fois retrouvé sa conscience cherche a connaitre son passé et cherche a donner du sens à sa vie
 
 ## Histoire
 - crée par Helga
 - Sa conscience l’éveil et il retrouve des souvenirs sur sa vie d’avant 
-- Il a une relation ambiguë avec Helga entre subordination et volonté de se libérer 
+- Il a une relation ambiguë avec Orzana entre subordination et volonté de se libérer 
 
 ## Lieux associés
-- Il est en chemin depuis le sud de la Konfederation vers la capitale de Montflori
+- Il est en chemin depuis le sud de Sonfeld vers la capitale de Montflori
 
 ## Capacités / Pouvoirs / Magie
 - force et endurance hors normes, combat de mêlées
