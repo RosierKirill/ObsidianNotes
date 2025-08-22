@@ -34,16 +34,24 @@ Lors de votre soutenance, vous présenterez :
 
 - **Note** : Équipe transverse composée de spécialistes dans plusieurs domaines différents
 
+
+
+### Le Contexte DevOps de l'entreprise.
+
+- Le métier de gca utilise différents applications
+- il ne peuvent pas les suivre en temps réel
+- il demandent des informations à devops
+- avant i lavait peu d'application et le suivi était plus facile
+- après le nombre d'applications à augmenté et ils sont passé sur Kubernetes
+- le suivi est devenu plus complexe et a nécessitait des outils spécifiques
+- 
+
 ### Projet :
 
-L’équipe DevOps est chargée de gérer le déploiement des logiciels servant les différents métiers de l’entreprise. Par exemple, le métier de lavage utilise des applications spécifiques (LAVE, Borne Conducteur etc)
+L’équipe DevOps est chargée de gérer le déploiement des logiciels servant les différents métiers de l’entreprise. Par exemple, le métier de lavage utilise des applications spécifiques (LAVE, Borne Conducteur etc.)
 
 #### Objectif :
-**Créer un dashboard centralisé** pour visualiser les applications internes déployées dans les différents environnements (noms, versions, etc.)
-
-
-Les applications sont divisées en deux projets : front-end et back-end.
-Le front-end est développé en Angular, un framework pour TypeScript, tandis que le back-end est développé en Quarkus, un framework Java avec une intégration Kubernetes adapté pour le cloud.
+**Créer un Dashboard centralisé** pour visualiser les applications internes déployées dans les différents environnements (noms, versions, etc.)
 
 ### Technologie Clé : Kubernetes
 
