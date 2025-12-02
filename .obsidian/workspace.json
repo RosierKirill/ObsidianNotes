@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "143293d03c452597",
+        "id": "05eaaa75a28d9b3a",
         "type": "tabs",
         "children": [
           {
-            "id": "20e790ae295a958a",
+            "id": "9d328051b718ebad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alternance/Soutenance/Script de la présentation.md",
+                "file": "WebComics/Script/Volume 1 - Strange matters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Script de la présentation"
-            }
-          },
-          {
-            "id": "17990d342d29b537",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alternance/Soutenance/Presentation de Soutenance d'alternance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Presentation de Soutenance d'alternance"
+              "title": "Volume 1 - Strange matters"
             }
           }
         ]
@@ -184,52 +170,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "20e790ae295a958a",
+  "active": "9d328051b718ebad",
   "lastOpenFiles": [
-    "WebComics/Script/Volume 1 - Strange matters.md",
+    "Expliquation methode extractUniqueCategoriesFromResults().md",
+    "README.md",
+    "Alternance/MissionsSupp/Point à voir dans l'avenir proche.md",
+    "Untitled.base",
+    "Nouveaux sujets.md",
+    "Alternance/MissionsSupp/Untitled.md",
+    "comment fonctionne le test de playwright.md",
+    "Alternance/OTC Novatrans EspaceClient/Analyse du projet OTC Novatrans Espace Client.md",
+    "Alternance/OTC Novatrans EspaceClient",
+    "Alternance/MissionsSupp/Plan pour la présentation.md",
+    "Alternance/MissionsSupp/Intégrer Playwright à Dashboard.md",
+    "GameDev/Black Bismuth/Lore/Lore, Old Version (UKR).md",
+    "GameDev/game elements table.md",
+    "GameDev/Rogue-like Dark Fantasy Structure.md",
+    "WebComics/Lore/Narration.md",
+    "Comics Univers/Black Bismuth Lore.md",
+    "Vrac/Inspiration 1.md",
+    "WebComics/Lore/Dossier Delta-09 Torpedo.md",
+    "Vrac/CV notes.md",
+    "WebComics/Lore/Деф’янс 1 Створення нових героїв.md",
+    "WebComics/Lore/Ендрю Марш - Суперсолдат.md",
+    "WebComics/Lore/Список додаткових персонажів коміксів.md",
+    "Alternance/Soutenance/Presentation de Soutenance d'alternance.md",
+    "WebComics/Lore/Untitled",
+    "WebComics/Lore/Contexte historique de Paul Mercer.md",
     "Alternance/Soutenance/Script de la présentation.md",
+    "WebComics/Script/Volume 1 - Strange matters.md",
     "WebComics/Script",
     "Vrac/période fin 2025.md",
-    "Alternance/Soutenance/Presentation de Soutenance d'alternance.md",
     "Alternance/Soutenance/Prise de notes bruts de la présentation Soutenance.md",
-    "GameDev/Projet de jeu 48heures/Concept.md",
     "GameDev/Projet de jeu 48heures",
     "WebComics/Lore/WebComics.canvas",
-    "WebComics/Lore/Науковці Альтери.md",
-    "WebComics/Lore/Real Countries.md",
-    "WebComics/Lore/Paul Mercer, Transcending.md",
-    "WebComics/Lore/Sushi Master.md",
-    "WebComics/Lore/Проект «Север».md",
-    "WebComics/Lore/Шварцбург.md",
-    "WebComics/Lore/Noms en vrac.md",
-    "WebComics/Lore/Liste des personnages.md",
     "GameDev/Black Bismuth/Hack&Slash Logic.canvas",
-    "GameDev/Black Bismuth/GameConcept/States.Region.Cities.md",
-    "GameDev/Black Bismuth/Gameplay/Projet de jeu.md",
-    "GameDev/Black Bismuth/GameConcept/Fleures.md",
-    "GameDev/Black Bismuth/Lore/Lore, Old Version (UKR).md",
     "GameDev/Black Bismuth/Images",
-    "GameDev/Black Bismuth/Lore/Mineraux.md",
-    "GameDev/Black Bismuth/Lore/script edit.md",
     "Comics Univers/Untitled.canvas",
     "GameDev/Black Bismuth/Lore/Hesperedia 6.png",
-    "Comics Univers/Liste des personnages.md",
     "GameDev/Black Bismuth/Lore/Hesperedia.png",
-    "Comics Univers/Endrew Marsch.md",
-    "Comics Univers/Here.md",
     "Comics Univers/AetherMap.jpg",
     "Alternance/Images/Carte Europe GCA.png",
     "Alternance/Soutenance",
-    "README.md",
-    "WebComics/Lore/Fueur Frei.md",
     "Alternance/Images/diagrame de classe gca-argocd-api.png",
-    "WebComics/Lore/Joy.md",
     "Comics Univers",
     "Alternance/Images/Core_Concepts_Keycloak.webp",
     "Alternance/MissionsSupp",
-    "Alternance/FormationTechno",
-    "Alternance/SuiviDevDasboard",
-    "Alternance/Projet Dashboard",
-    "GameDev/Logiciels/Blender"
+    "Alternance/FormationTechno"
   ]
 }
