@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d328051b718ebad",
+            "id": "1dfa773e98d4d1f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,8 +170,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9d328051b718ebad",
+  "active": "1dfa773e98d4d1f3",
   "lastOpenFiles": [
+    "Tests D'acceptance EspaceClient Novatrans.md",
+    "WebComics/Script/Volume 1 - Strange matters.md",
     "Expliquation methode extractUniqueCategoriesFromResults().md",
     "README.md",
     "Alternance/MissionsSupp/Point à voir dans l'avenir proche.md",
@@ -198,10 +200,8 @@
     "WebComics/Lore/Untitled",
     "WebComics/Lore/Contexte historique de Paul Mercer.md",
     "Alternance/Soutenance/Script de la présentation.md",
-    "WebComics/Script/Volume 1 - Strange matters.md",
     "WebComics/Script",
     "Vrac/période fin 2025.md",
-    "Alternance/Soutenance/Prise de notes bruts de la présentation Soutenance.md",
     "GameDev/Projet de jeu 48heures",
     "WebComics/Lore/WebComics.canvas",
     "GameDev/Black Bismuth/Hack&Slash Logic.canvas",

@@ -1,7 +1,7 @@
 
 # **Intro**
 
-Davit Goga — un pauvre orphelin géorgien qui, en pleine Guerre Froide s'est retrouvé dans les rues d'une petite ville appelée Gvaretsi, située à seulement 15 km de Batoumi, célèbre station balnéaire géorgienne, et à 15 km de la frontière turque.
+Davit Goga — un pauvre orphelin géorgien. En pleine Guerre Froide, il se retrouve livré à lui-même dans les rues de Gvaretsi,  située à seulement 15 km de Batoumi, célèbre station balnéaire géorgienne, et à 15 km de la frontière turque.
 
 Il a très vite pris le mauvais chemin, celui de la criminalité, plus particulièrement le trafic de contrebande dans les montagnes caucasiennes. À cette époque, la Géorgie faisait partie de l’URSS et se trouvait donc derrière le rideau de fer. Les marchandises venant de pays étrangers, notamment d’Europe de l’Ouest ou des États-Unis, avaient une valeur énorme aux yeux de beaucoup de gens, prêts à dépenser leurs derniers sous pour se procurer ce qu’ils considéraient être des objets de luxe : livres, radios, montres, électroménager…
 
