@@ -162,3 +162,10 @@ On peut jouer cette intrigue frère soeur un peu comme dans le compte de la rein
 -> première incohérence : si Mira sait que Davit est le frère qu'elle cherchait alors pourquoi elle ne le reconnais pas? 
 
 Il faut travailler sur Dragunov. J'ai déjà décris ce personnage auparavant mais il était plus un militaire psychopathe qu'un mafieux. On en réalité mélanger les deux.
+
+
+#### RedFace
+
+RedFace ou de son vrai nom Henrik Jarvanlander, est d'origine mixte étant né à Tromso et a passé plus de 15 ans à Kiruna où il a travaillé en tant que manager d'une compagnie minière. Cependant un malheureux évènement qui s'est produit à la mine en 1986, qui a eu pour bilan 1 mort et 6 blessés graves. Ce dernier, lui a couté sa carrière, et une 2ans de prison pour fraude et non respect des règles de sécurité.
+
+Une fois sorti de prison, à ses 42 nas sa réputation à été détruite. IL n'avait aucun autre choix que de quitter l'Europe vers les pays du caucase encore en voie de dévéloppement et de démocratisation. Nous sommes en 1990.
