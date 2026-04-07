@@ -1,0 +1,12 @@
+## Characters
+[[The Hanged Man (Main Character) 1]]  
+[[Helga the Witch 1]]  
+[[Bogur – Burkanian Alchemist]]  
+[[Ayla & Laurene – Mlyvian blacksmith sisters]]  
+[[General Charles LaPierre]]  
+[[Strigoboor – Lapiz Knight]]  
+[[Velsebor – Golden Mage]]  
+[[Volkhoboor – Crimson Beast]]  
+[[Konstantin Moroi]]  
+[[Vyi, The Gazer Demon]]  
+[[Alaric II – The King of MontFlori]]  
